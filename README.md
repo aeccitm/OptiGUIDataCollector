@@ -6,11 +6,11 @@ OptiGUI DataCollector is a Python 3.8 based graphical user interface that facili
 
 ## Steps for installation:
 
-1. Download the package OptiGUIDataCollector
-2. Installed through pip install -r requirements.txt
-3. Download the package PyApex. Note: Python3 Library for controlling Apex equipments
+1. Download the package OptiGUIDataCollector.
+2. Installed through pip install -r requirements.txt.
+3. Download the package PyApex. Note: Python3 Library for controlling Apex equipments.
 4. Download the SDK NITLibrary_x64. Note: The NITLibrary is a DLL providing all functions to interface with NIT cameras regardless of the connection type (USB or GIGE).
-5. In LabVIEW, download driver from instrument driver finder. Nota: This is a driver for EXFO PM 1xxx Series Meter
+5. In LabVIEW, download driver from instrument driver finder. Nota: This is a driver for EXFO PM 1xxx Series Meter.
 
 
 ## Usage
