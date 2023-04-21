@@ -13,10 +13,4 @@ OptiGUI DataCollector is a Python 3.8 based graphical user interface that facili
 5. In LabVIEW, download driver from instrument driver finder. Nota: This is a driver for EXFO PM 1xxx Series Meter
 
 
-## Minimum requirements:
-
-
-pip install -r requirements.txt
-
-## Software operation:
 
