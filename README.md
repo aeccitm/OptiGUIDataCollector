@@ -14,4 +14,4 @@ OptiGUI DataCollector is a Python 3.8 based graphical user interface that facili
 
 
 ## Usage
-The GUI tutorial is avaialble here:
+The GUI tutorial is avaialble here: 
