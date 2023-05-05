@@ -39,19 +39,20 @@ Three kinds of equipment protocols are implemented within the GUI's modules.
  - Serial communication
  - USB communication
 
+<table>
+  
   <tr>
     <th>Equipment</strong></th>
     <th>Manufacturer</strong></th>
     <th>Picture</strong></th>
   </tr>
-  <tr>
-  
+  </tr>
     <td><div align="center">Apex AP3352A and AP3350A Optical Tunable Laser Source Plug-in Modules</td>  
     <td><div align="center">APEX Technologies</div></td>
     <td><div align="center"><img src="images/imagen.png"></div></td>
   </tr>
 
-<tr>
+</tr>
   <td><div align="center">PM-1600-High-speed power meter</td>
   <td><div align="center">EXFO</div></td>
   <td><div align="center"></td>
