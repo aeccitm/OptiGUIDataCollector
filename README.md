@@ -49,45 +49,45 @@ Three kinds of equipment protocols are implemented within the GUI's modules.
   </tr>
     <td><div align="center">Apex AP3352A and AP3350A Optical Tunable Laser Source Plug-in Modules</td>  
     <td><div align="center">APEX Technologies</div></td>
-    <td><div align="center"><img src="images/imagen.png"></div></td>
+    <td><div align="center"><img src="Images/laser.png"></div></td>
   </tr>
 
 </tr>
   <td><div align="center">PM-1600-High-speed power meter</td>
   <td><div align="center">EXFO</div></td>
-  <td><div align="center"></td>
+  <td><div align="center"><img src="Images/pm-1600-1hr.jpg"></div></td>
     
 </tr>
 
   <tr>
     <td><div align="center">WiDy SWIR 640 - VGA Camera</td>
     <td><div align="center">New Imaging Technologies</td>
-    <td><div align="center"></td>
+    <td><div align="center"><img src="Images/WiDySWIR-640-front-1.jpg"></div></td></td>
   </tr>
   <tr>
     <td><div align="center">Motorized Precision Rotation Mount</td>
     <td><div align="center">Thorlabs</td>
-    <td><div align="center"></td>
+    <td><div align="center"><img src="Images/Captura1.PNG"></div></td></td>
   </tr>
   <tr>
     <td><div align="center">T-Cube DC Servo Controller</td>
     <td><div align="center">Thorlabs</td>
-    <td><div align="center"></td>
+    <td><div align="center"><img src="servo motoor.PNG"></div></td></td>
   </tr>
   <tr>
     <td><div align="center">Arduino Mega 2560</td>
     <td><div align="center">Arduino AG</td>
-    <td><div align="center">Fila 6, Columna 3</td>
+    <td><div align="center"><img src="Images/Arduino Mega.PNG"></div></td></td>
   </tr>
   <tr>
     <td><div align="center">Ceramic heater</td>
     <td></td>
-    <td><div align="center"></td>
+    <td><div align="center"><img src="Images/Calentador.jpg"></div></td></td>
   </tr>
   <tr>
     <td><div align="center">Thermistor</td>
     <td></td>
-    <td><div align="center"></td>
+    <td><div align="center"><img src="Images/D_NQ_NP_767591-MLM43263798859_082020-V.jpg"></div></td></td>
   </tr>
 </table>
 
@@ -111,14 +111,14 @@ Here is a step-by-step guide to reconstructing transmission spectra using OptiGU
 
 **Fig. 1** illustrates the actions that the user must take when working within the viewing window in order to reconstruct the transmission spectra.
 
-
-{IMAGEN}
+<div align="center"><img src="Images/Fig_1.png"></div>
 
 <p align="center">Fig. 1. Step by step reconstruction of the transmission spectra using the OptiGUI DataCollector.</p>
 
 When the GUI execution is finished, the transmission spectrum of the optical fiber device for the given wavelength range will be presented. Thus, the user will be able to view the transmission spectrum as depicted in **Fig. 2** via the software interface.
 In addition to displaying the transmission spectral for the assigned wavelength range, the GUI also allows the user to save the acquired data as a **.xlsx** file for further analysis. This feature enables researchers to store and compare data from different experiments easily
 
+ <div align="center"><img src="Images/Fig_2.png"></div>
 <p align="center">Fig. 2. Transmission spectrum displayed in the GUI.</p>
 
 **Example #2: Measuring transmission spectra at different temperatures using an LPFG.**
@@ -141,6 +141,7 @@ In addition to displaying the transmission spectral for the assigned wavelength 
 
 A graphical illustration of the sequence of steps involved in the reconstruction of transmission spectra at different temperatures is provided in **Fig. 3.** 
 
+ <div align="center"><img src="Images/Fig_3.png"></div>
 <p align="center">Fig. 3. Capturing images by adjusting the wavelength of a tunable laser.</p>
 
 **Example #3: Capturing images by adjusting the wavelength of a tunable laser.**
@@ -159,6 +160,7 @@ A graphical illustration of the sequence of steps involved in the reconstruction
 
 **Fig. 4** displays the steps in the display window for capturing images at different wavelengths of the tunable laser. During the execution of the GUI, a new display window will be generated, which will show the captured image at the output of the optical fiber for the assigned wavelength.
 
+  <div align="center"><img src="Images/Fig_4.png"></div>
 <p align="center">Fig 4. Step by step instructions for capturing images by adjusting the wavelength of a tunable laser using the OptiGUI DataCollector.</p>
 
 **Example #4:** Capturing imaging by adjusting the polarization of light at the output of the optical fiber mode converter. 
@@ -181,8 +183,10 @@ A graphical illustration of the sequence of steps involved in the reconstruction
 
 **Step 9.**  Click on the PLAY button to execute the program.
 
+  
 **Fig. 5** displays the steps in the GUI for capturing imaging by adjusting the polarization of light at the output of the optical fiber mode converter. During the execution of the GUI, a new display window will be generated, which will show the captured image at the output of the optical fiber for the assigned wavelength.
 
+ <div align="center"><img src="Images/Fig_5.png"></div>
 <p align="center">Fig 5. Step-by-step capture of images by adjusting the polarization of light at the output of the optical fiber mode converter using the OptiGUI DataCollector.</p>
 
 **Example #5: Capturing imaging at different temperatures.**
@@ -205,4 +209,5 @@ A graphical illustration of the sequence of steps involved in the reconstruction
 
 **Fig. 6** depicts the steps in the display window for taking images of modes at the optical fiber's output under various temperature scenarios. During the execution of the GUI, a new display window will be generated, which will show the captured image at the output of the optical fiber for the assigned wavelength. 
 
-**Fig. 6** Step-by-step instructions for capturing images at different temperatures using the OptiGUI DataCollector.
+ <div align="center"><img src="Images/Fig_6.png"></div>
+<p align="center">Fig. 6. Step-by-step instructions for capturing images at different temperatures using the OptiGUI DataCollector.</p>
