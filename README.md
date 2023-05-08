@@ -72,7 +72,7 @@ Three kinds of equipment protocols are implemented within the GUI's modules.
   <tr>
     <td><div align="center">T-Cube DC Servo Controller</td>
     <td><div align="center">Thorlabs</td>
-    <td><div align="center"><img src="servo motoor.PNG"></div></td></td>
+    <td><div align="center"><img src="Images/servo motoor.PNG"></div></td></td>
   </tr>
   <tr>
     <td><div align="center">Arduino Mega 2560</td>
