@@ -212,4 +212,5 @@ A graphical illustration of the sequence of steps involved in the reconstruction
  <div align="center"><img src="Images/Fig_6.png"></div>
 <p align="center">Fig. 6. Step-by-step instructions for capturing images at different temperatures using the OptiGUI DataCollector.</p>
 
-
+## **License**
+This code is licensed under GNU (GPL)
