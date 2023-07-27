@@ -1,1 +1,6 @@
-*.ini
+__pycache__/
+control_interfaz/
+control4/
+imagenes/
+Supplementary material/
+
